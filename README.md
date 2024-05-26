@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst and AI Enthusiast on
 **Data Analysis:** Pandas, NumPy, Scikit-Learn, Plotly  
 **Machine Learning:** Scikit-Learn, TensorFlow, Keras, BigQuery  
 **Deep Learning:** GRU, LSTM, Neural Networks  
-**Tools:** VS Code, Google Colab, GitHub  
+**Tools:** VS Code, Google Colab, GitHub, PowerBI
 
 ## What I Do
 **Data Analytics:** Turning raw data into actionable insights.  
