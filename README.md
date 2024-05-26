@@ -30,3 +30,6 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst and AI Enthusiast on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://thefinfinity.com/)  
 I'm always excited to collaborate on new projects, share knowledge, and connect with like-minded individuals. Feel free to reach out or check out my repositories!
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tar-ive&show_icons=true)  
