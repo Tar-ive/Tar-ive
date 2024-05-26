@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst and AI Enthusiast on
 
 ## About Me
 🎓 Studying Computer Information Systems in Texas State University  
-💼 Aspiring to be a top-notch AI Engineer
+💼 Aspiring to be a top-notch AI Engineer  
 📈 Passionate about Finance, AI, and Running  
 
 ## My Skills
