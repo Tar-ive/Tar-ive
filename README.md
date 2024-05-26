@@ -25,9 +25,8 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst and AI Enthusiast on
 **Personal Finance Dashboard:** A Streamlit app that visualizes and analyzes personal financial data.  
 
 ## Let's Connect! 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(360deg) brightness(100%) contrast(100%);'>](https://github.com/Tar-ive)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(360deg) brightness(100%) contrast(100%);'>](https://www.linkedin.com/in/saksham-adhikari-4727571b5/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style='filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(360deg) brightness(100%) contrast(100%);'>](https://twitter.com/Saksham_adh)
+[<img src='https://github.com/Tar-ive/Tar-ive/blob/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saksham-adhikari-4727571b5/)
+[<img src='https://github.com/Tar-ive/Tar-ive/blob/main/x.svg' alt='X' height='40'>](https://twitter.com/Saksham_adh)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(360deg) brightness(100%) contrast(100%);'>](https://thefinfinity.com/)
 
 
