@@ -1,7 +1,7 @@
 ## Hi there! I'm Saksham 👋
 Welcome to my GitHub profile! I'm a passionate Data Science and AI and love trading stocks.
 
-https://adhsaksham-portfolio.netlify.app/
+[Portfolio Website](https://adhsaksham-portfolio.netlify.app/)
 
 ## About Me
 🎓 Studying Computer Information Systems in Texas State University  
