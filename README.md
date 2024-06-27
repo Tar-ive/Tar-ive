@@ -1,5 +1,7 @@
 ## Hi there! I'm Saksham 👋
-Welcome to my GitHub profile! I'm a passionate Data Analyst and AI Enthusiast on a mission to leverage the power of data and artificial intelligence to solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate Data Science and AI and love trading stocks.
+
+https://adhsaksham-portfolio.netlify.app/
 
 ## About Me
 🎓 Studying Computer Information Systems in Texas State University  
@@ -7,22 +9,18 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst and AI Enthusiast on
 📈 Passionate about Finance, AI, and Running  
 
 ## My Skills
-**Programming Languages:** Python, SQL, R  
+**Programming Languages:** Python, MySQL, R, C 
 **Data Analysis:** Pandas, NumPy, Scikit-Learn, Plotly  
-**Machine Learning:** Scikit-Learn, TensorFlow, Keras, BigQuery  
+**Machine Learning:** Pytorch, Scikit-Learn, TensorFlow, Keras, BigQuery  
 **Deep Learning:** GRU, LSTM, Neural Networks  
-**Tools:** VS Code, Google Colab, GitHub, PowerBI
+**Tools:** VS Code, Google Colab, GitHub, PowerBI, Docker, Google Cloud Platform, AWS RDS
 
 ## What I Do
-**Data Analytics:** Turning raw data into actionable insights.  
-**AI API Apps:** Building applications that harness the power of artificial intelligence.  
+**Data Science:** Turning raw data into actionable insights.  
+**AI Apps:** Building applications that harness the power of artificial intelligence.  
 **Stock Recommendation Systems:** Crafting tools to help investors make informed decisions.  
 **Financial Analysis:** Analyzing financial data to uncover trends and opportunities.  
-
-## Projects I'm Proud Of
-**Stock Recommendation System:** A Python-based app that recommends stocks based on financial metrics.  
-**AI-Powered Exercise Forecasting:** Using GRU neural networks to predict and optimize exercise plans.  
-**Personal Finance Dashboard:** A Streamlit app that visualizes and analyzes personal financial data.  
+ 
 
 ## Let's Connect! 
 [<img src='https://github.com/Tar-ive/Tar-ive/blob/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saksham-adhikari-4727571b5/)
