@@ -13,7 +13,7 @@ https://adhsaksham-portfolio.netlify.app/
 **Data Analysis:** Pandas, NumPy, Scikit-Learn, Plotly  
 **Machine Learning:** Pytorch, Scikit-Learn, TensorFlow, Keras, BigQuery  
 **Deep Learning:** GRU, LSTM, Neural Networks  
-**Tools:** VS Code, Google Colab, GitHub, PowerBI, Docker, Google Cloud Platform, AWS RDS
+**Tools:** VS Code, Google Colab, GitHub, PowerBI, Docker, Google Cloud Platform, AWS RDS 
 
 ## What I Do
 **Data Science:** Turning raw data into actionable insights.  
