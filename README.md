@@ -10,7 +10,7 @@ https://solicitator.org
 Currently building Haggle, A Peer to Peer Auction Marketplace promoting Transparency and a Gamified Experience to give a Second Life to your Unused Items  
 https://huggingface.co/spaces/Tarive/HRM-anchoring-bias-model    
 https://www.notion.so/ti-db-Qdrant-MCP-24274e49e5de80d6ada8ffbe978cea6e?source=copy_link  
-https://huggingface.co/spaces/Tarive/lora_finetuned_research_abstracts
+https://huggingface.co/spaces/Tarive/lora_finetuned_research_abstracts  
 https://huggingface.co/Tarive/lora_research_abstracts
 
 
