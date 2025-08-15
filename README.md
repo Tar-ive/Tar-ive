@@ -1,5 +1,5 @@
 ## Hi there! I'm Saksham 👋
-Welcome to my GitHub profile!
+i don't have a bio, i just have projects. 
 
 [Portfolio Website](https://saksham.us/)
 
