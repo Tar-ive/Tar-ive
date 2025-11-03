@@ -1,2 +1,2 @@
 ## Hi there! I'm Saksham 👋
-i don't have a bio, i just have projects. 
+Develops AI agent systems with a focus on autonomous reasoning and decision-making. Builds automation tools that integrate AI with browser-based workflows. Works with Python as a primary language for AI and automation projects. Explores model customization and deployment workflows for specialized AI applications. Creates tools that augment human cognitive processes with computational systems. Develops solutions that balance automation with human oversight. Works across multiple programming languages including TypeScript, Kotlin, and C++.
